@@ -3,7 +3,7 @@
 * Program: Program2
 *
 * Description: 
-* This Program funtions like a calculator. If you create a test 
+* This Program functions like a calculator. If you create a test 
 * driver you will be able solve any simple arithmetic question. 
 * -------------------------------------------------------------
 */
