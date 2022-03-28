@@ -4,7 +4,8 @@
 *
 * Description: 
 * This Program functions like a calculator. If you create a test 
-* driver you will be able solve any simple arithmetic question. 
+* driver you will be able solve any simple arithmetic question
+* as well as reset the calculator state. 
 * -------------------------------------------------------------
 */
 public class Calculator {
